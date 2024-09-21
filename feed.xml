@@ -3,6 +3,7 @@
   <channel>
     <title>Guide d&apos;étude pour l&apos;examen de la citoyenneté du Canada</title>
     <link>https://julien-l.github.io/etude-cic/</link>
+    <atom:link href="https://julien-l.github.io/etude-cic/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
     <copyright>&#169; Citoyenneté et Immigration Canada, 2012</copyright>
     <itunes:author>Citoyenneté et Immigration Canadas</itunes:author>
@@ -16,10 +17,12 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Avis</title>
       <itunes:title>Avis</itunes:title>
       <description>
         Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties.
       </description>
+      <link>https://julien-l.github.io/etude-cic/</link>
       <itunes:episode>1</itunes:episode>
       <enclosure 
         length="862039" 
