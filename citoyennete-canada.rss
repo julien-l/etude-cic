@@ -16,18 +16,20 @@
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:title>Avis</itunes:title>
       <description>
         Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties.
       </description>
+      <itunes:episode>1</itunes:episode>
       <enclosure 
         length="862039" 
         type="audio/mpeg" 
         url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/01-avis.mp3"
       />
       <guid>f45950ae-4c5b-4553-be3f-3e4b6fc1b76d</guid>
-      <pubDate>2016-08-17</pubDate>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
       <itunes:duration>36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
