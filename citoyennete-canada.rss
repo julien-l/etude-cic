@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Guide d&apos;étude pour l&apos;examen de la citoyenneté du Canada</title>
-    <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/decouvrir-canada-audio.html</link>
+    <link>https://julien-l.github.io/etude-cic/</link>
     <language>fr-fr</language>
     <copyright>&#169; Citoyenneté et Immigration Canada, 2012</copyright>
     <itunes:author>Citoyenneté et Immigration Canadas</itunes:author>
@@ -10,7 +10,12 @@
       Découvrir le Canada: les droits et responsabilités liés à la citoyenneté.
     </description>
     <itunes:type>serial</itunes:type>
-    <itunes:category text="Education" />
+    <itunes:image
+      href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-2880px-Flag_of_Canada_%28Pantone%29.svg.png"
+    />
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
     <item>
       <itunes:title>Avis</itunes:title>
       <description>
@@ -24,6 +29,7 @@
       <guid>f45950ae-4c5b-4553-be3f-3e4b6fc1b76d</guid>
       <pubDate>2016-08-17</pubDate>
       <itunes:duration>36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
