@@ -10,9 +10,7 @@
       Découvrir le Canada: les droits et responsabilités liés à la citoyenneté.
     </description>
     <itunes:type>serial</itunes:type>
-    <itunes:image
-      href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-2880px-Flag_of_Canada_%28Pantone%29.svg.png"
-    />
+    <itunes:image href="https://vectorflags.s3.amazonaws.com/flags/ca-square-01.png" />
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
