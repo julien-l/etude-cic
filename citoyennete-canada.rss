@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+
+
+
+
+https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/01-avis.mp3
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guide d&apos;étude pour l&apos;examen de la citoyenneté du Canada</title>
+    <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/decouvrir-canada-audio.html</link>
+    <language>fr-fr</language>
+    <copyright>&#169; Citoyenneté et Immigration Canada, 2012</copyright>
+    <itunes:author>Citoyenneté et Immigration Canadas</itunes:author>
+    <description>
+      Découvrir le Canada: les droits et responsabilités liés à la citoyenneté.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:category text="Education" />
+    <item>
+      <itunes:title>Avis</itunes:title>
+      <description>
+        Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties.
+      </description>
+      <enclosure 
+        length="862039" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/01-avis.mp3"
+      />
+      <guid>f45950ae-4c5b-4553-be3f-3e4b6fc1b76d</guid>
+      <pubDate>2016-08-17</pubDate>
+      <itunes:duration>36</itunes:duration>
+    </item>
+  </channel>
+</rss>
