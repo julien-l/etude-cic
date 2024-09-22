@@ -23,7 +23,6 @@
         Guide complet, en un seul MP3 plutôt que par épisode.
       </description>
       <link>https://julien-l.github.io/etude-cic/</link>
-      <itunes:episode>1</itunes:episode>
       <enclosure
         url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/decouvrir-le-canada.mp3"
         length="167149323"
@@ -34,23 +33,312 @@
       <itunes:duration>10446</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
-      <title>Avis</title>
-      <itunes:title>Avis</itunes:title>
-      <description>
-        Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties.
-      </description>
-      <link>https://julien-l.github.io/etude-cic/</link>
+      <title>Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties</title>
+      <itunes:title>Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties</itunes:title>
+      <description>Avis – Guide d&apos;étude, examens et questions pour l&apos;examen de la citoyenneté provenant de tierces parties</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/avis.html</link>
       <itunes:episode>1</itunes:episode>
       <enclosure
         length="862039" 
         type="audio/mpeg" 
         url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/01-avis.mp3"
       />
-      <guid>f45950ae-4c5b-4553-be3f-3e4b6fc1b76d</guid>
+      <guid>eba55220-1edd-4b93-84a0-6a1132e961ec</guid>
       <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
       <itunes:duration>36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
+    <item>
+      <title>Le serment de citoyenneté</title>
+      <itunes:title>Le serment de citoyenneté</itunes:title>
+      <description>Le serment de citoyenneté</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/serment-citoyennete.html</link>
+      <itunes:episode>2</itunes:episode>
+      <enclosure
+        length="3451388" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/02-le-serment-de-citoyennete.mp3"
+      />
+      <guid>da2f831b-0c0c-4e4b-a33d-7206e5eedc3f</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>144</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Message à nos lecteurs et lectrices</title>
+      <itunes:title>Message à nos lecteurs et lectrices</itunes:title>
+      <description>Message à nos lecteurs et lectrices</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/message-lecteurs-lectrices.html</link>
+      <itunes:episode>3</itunes:episode>
+      <enclosure
+        length="4735971" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/03-message-a-nos-lecteurs-et-lectrices.mp3"
+      />
+      <guid>7a6f22fd-facc-4497-ad8b-9c0158362898</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Demander la citoyenneté</title>
+      <itunes:title>Demander la citoyenneté</itunes:title>
+      <description>Demander la citoyenneté</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/demander-citoyennete.html</link>
+      <itunes:episode>4</itunes:episode>
+      <enclosure
+        length="5876361" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/04-demander-la-citoyennete.mp3"
+      />
+      <guid>e75d6e7d-7fc2-4eb2-82be-dd9027bcdd44</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>245</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les droits et responsabilités liés à la citoyenneté</title>
+      <itunes:title>Les droits et responsabilités liés à la citoyenneté</itunes:title>
+      <description>Les droits et responsabilités liés à la citoyenneté</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/droits-responsabilites-citoyennete.html</link>
+      <itunes:episode>5</itunes:episode>
+      <enclosure
+        length="8766529" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/05-les-droits-et-les-responsabilites-liees-a-la-citoyennete.mp3"
+      />
+      <guid>28725290-60d3-4986-b82c-4ef00b99680d</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>365</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Qui sommes-nous, les Canadiens?</title>
+      <itunes:title>Qui sommes-nous, les Canadiens?</itunes:title>
+      <description>Qui sommes-nous, les Canadiens?</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/qui-sont-canadiens.html</link>
+      <itunes:episode>6</itunes:episode>
+      <enclosure
+        length="15876666" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/06-qui-sommes-nous-les-canadiens.mp3"
+      />
+      <guid>e7b35bff-130d-4b6b-b1b9-cbfe0a2f8cbd</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>661</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>L&apos;histoire du Canada</title>
+      <itunes:title>L&apos;histoire du Canada</itunes:title>
+      <description>L&apos;histoire du Canada</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/histoire-canada.html</link>
+      <itunes:episode>7</itunes:episode>
+      <enclosure
+        length="53808961" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/07-histoire-du-canada.mp3"
+      />
+      <guid>e9506f9b-e402-4c26-b815-0fcabd4f4340</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>2242</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Le Canada moderne</title>
+      <itunes:title>Le Canada moderne</itunes:title>
+      <description>Le Canada moderne</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/canada-moderne.html</link>
+      <itunes:episode>8</itunes:episode>
+      <enclosure
+        length="19739853" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/08-le-canada-moderne.mp3"
+      />
+      <guid>5dc59d93-a691-4a8d-baaf-aa1122be41b0</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>822</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les Canadiens et leur système de gouvernement</title>
+      <itunes:title>Les Canadiens et leur système de gouvernement</itunes:title>
+      <description>Les Canadiens et leur système de gouvernement</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/canadiens-systeme-gouvernement.html</link>
+      <itunes:episode>9</itunes:episode>
+      <enclosure
+        length="11785908" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/09-les-canadiens-et-leur-systeme-de-gouvernement.mp3"
+      />
+      <guid>ad218668-d7fe-4dd0-8d23-816c3630dd1c</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>491</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les élections fédérales</title>
+      <itunes:title>Les élections fédérales</itunes:title>
+      <description>Les élections fédérales</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/elections-federales.html</link>
+      <itunes:episode>10</itunes:episode>
+      <enclosure
+        length="17899167" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/10-les-elections-federales.mp3"
+      />
+      <guid>82e4c000-3415-4d34-8868-a7774fdc9ca6</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>746</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Le système de justice</title>
+      <itunes:title>Le système de justice</itunes:title>
+      <description>Le système de justice</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/systeme-justice.html</link>
+      <itunes:episode>11</itunes:episode>
+      <enclosure
+        length="5371674" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/11-le-systeme-de-justice.mp3"
+      />
+      <guid>64019b16-233f-4a3c-8d94-3905d7a968f6</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>224</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les symboles canadiens</title>
+      <itunes:title>Les symboles canadiens</itunes:title>
+      <description>Les symboles canadiens</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/symboles-canadiens.html</link>
+      <itunes:episode>12</itunes:episode>
+      <enclosure
+        length="13136900" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/12-les-symboles-canadiens.mp3"
+      />
+      <guid>2b1f8a6f-739f-4761-8da2-527a32bf4691</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>821</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>L&apos;économie canadienne</title>
+      <itunes:title>L&apos;économie canadienne</itunes:title>
+      <description>L&apos;économie canadienne</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/economie-canada.html</link>
+      <itunes:episode>13</itunes:episode>
+      <enclosure
+        length="5394871" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/13-leconomie-canadienne.mp3"
+      />
+      <guid>2de807ed-ed08-48d0-84d7-2aa8824c629c</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les régions du Canada</title>
+      <itunes:title>Les régions du Canada</itunes:title>
+      <description>Les régions du Canada</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/regions-canada.html</link>
+      <itunes:episode>14</itunes:episode>
+      <enclosure
+        length="24266357" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/14-les-regions-du-canada.mp3"
+      />
+      <guid>87b02d53-6eb1-49b9-8cf0-0f2afc074e95</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>1011</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Exemples de questions d&apos;examen</title>
+      <itunes:title>Exemples de questions d&apos;examen</itunes:title>
+      <description>Exemples de questions d&apos;examen</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/exemples-questions-examen.html</link>
+      <itunes:episode>15</itunes:episode>
+      <enclosure
+        length="8980954" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/15-exemples-du-question.mp3"
+      />
+      <guid>15538fc7-7007-4806-a8d0-f22192ddc77d</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>374</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Pour de plus amples renseignements</title>
+      <itunes:title>Pour de plus amples renseignements</itunes:title>
+      <description>Pour de plus amples renseignements</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/plus-renseignements.html</link>
+      <itunes:episode>16</itunes:episode>
+      <enclosure
+        length="37818267" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/16-pour-de-plus-amples-renseignements.mp3"
+      />
+      <guid>835312be-a49c-4e19-9b6a-cfc8af7b3faa</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>1576</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>La Loi sur la Citoyenneté et son Règlement (extraits)</title>
+      <itunes:title>La Loi sur la Citoyenneté et son Règlement (extraits)</itunes:title>
+      <description>La Loi sur la Citoyenneté et son Règlement (extraits)</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/extraits.html</link>
+      <itunes:episode>17</itunes:episode>
+      <enclosure
+        length="2702968" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/17-authorities.mp3"
+      />
+      <guid>3a3ea22e-5612-4993-99a9-830ab7f43b1d</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>169</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Citations mémorables</title>
+      <itunes:title>Citations mémorables</itunes:title>
+      <description>Citations mémorables</description>
+      <link>https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/citations-memorables.html</link>
+      <itunes:episode>18</itunes:episode>
+      <enclosure
+        length="1225481" 
+        type="audio/mpeg" 
+        url="https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/18-citations-memorables.mp3"
+      />
+      <guid>ffabec93-258a-4d87-a238-f117286a7d4e</guid>
+      <pubDate>Wed, 17 Aug 2016 12:00:00 PDT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>

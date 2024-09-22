@@ -1,0 +1,73 @@
+
+- number: 1
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/01-avis.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/avis.html
+  title: Avis – Guide d’étude, examens et questions pour l’examen de la citoyenneté provenant de tierces parties
+- number: 2
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/02-le-serment-de-citoyennete.mp3
+  title: Le serment de citoyenneté
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/serment-citoyennete.html
+- number: 3
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/03-message-a-nos-lecteurs-et-lectrices.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/message-lecteurs-lectrices.html
+  title: Message à nos lecteurs et lectrices
+- number: 4
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/04-demander-la-citoyennete.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/demander-citoyennete.html
+  title: Demander la citoyenneté
+- number: 5
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/05-les-droits-et-les-responsabilites-liees-a-la-citoyennete.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/droits-responsabilites-citoyennete.html
+  title: Les droits et responsabilités liés à la citoyenneté
+- number: 6
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/06-qui-sommes-nous-les-canadiens.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/qui-sont-canadiens.html
+  title: Qui sommes-nous, les Canadiens?
+- number: 7
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/07-histoire-du-canada.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/histoire-canada.html
+  title: L’histoire du Canada
+- number: 8
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/08-le-canada-moderne.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/canada-moderne.html
+  title: Le Canada moderne
+- number: 9
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/09-les-canadiens-et-leur-systeme-de-gouvernement.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/canadiens-systeme-gouvernement.html
+  title: Les Canadiens et leur système de gouvernement
+- number: 10
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/10-les-elections-federales.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/elections-federales.html
+  title: Les élections fédérales
+- number: 11
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/11-le-systeme-de-justice.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/systeme-justice.html
+  title: Le système de justice
+- number: 12
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/12-les-symboles-canadiens.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/symboles-canadiens.html
+  title: Les symboles canadiens
+- number: 13
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/13-leconomie-canadienne.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/economie-canada.html
+  title: L’économie canadienne
+- number: 14
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/14-les-regions-du-canada.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/regions-canada.html
+  title: Les régions du Canada
+- number: 15
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/15-exemples-du-question.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/exemples-questions-examen.html
+  title: Exemples de questions d’examen
+- number: 16
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/16-pour-de-plus-amples-renseignements.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/plus-renseignements.html
+  title: Pour de plus amples renseignements
+- number: 17
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/17-authorities.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/extraits.html
+  title: La Loi sur la Citoyenneté et son Règlement (extraits)
+- number: 18
+  url: https://www.canada.ca/content/dam/ircc/migration/ircc/francais/ministere/media/multimedia/audio/decouvrir/18-citations-memorables.mp3
+  link: https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/decouvrir-canada/lisez-ligne/citations-memorables.html
+  title: Citations mémorables
